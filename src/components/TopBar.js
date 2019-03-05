@@ -1,14 +1,14 @@
-import React, { Component } from "react";
-import logo from "../assets/nba-logoman-word-white.svg";
+import React, { Component } from 'react'
+import logo from '../assets/nba-logoman-word-white.svg'
 
 export class TopBar extends Component {
-  render() {
-    return (
-      <div>
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-        </header>
-      </div>
-    );
-  }
+    render() {
+        return (
+            <div>
+                <header className="App-header">
+                    <img src={logo} className="App-logo" alt="logo" />
+                </header>
+            </div>
+        )
+    }
 }

@@ -1,13 +1,13 @@
 .search-bar {
-  width: 780px;
-  margin-bottom: 15px;
+    width: 780px;
+    margin-bottom: 15px;
 }
 
 .player-option-image {
-  height: 32px;
-  margin-right: 15px;
+    height: 32px;
+    margin-right: 15px;
 }
 
 .player-option-label {
-  font-size: 15px;
+    font-size: 15px;
 }
